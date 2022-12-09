@@ -1,0 +1,2 @@
+﻿nom,att,matt,def,mdef,hp,magique
+orc,22,10,12,12,40,false

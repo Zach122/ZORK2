@@ -1,0 +1,2 @@
+﻿nom,att,matt,def,mdef,hp,habileteId
+roublard,25,15,15,15,800,1

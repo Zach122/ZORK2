@@ -1,0 +1,2 @@
+﻿nom,att,matt,def,mdef,hp,habileteId
+magicien,15,25,10,20,600,2
